@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Thumbs.db
 *.obj
 *.exe
@@ -27,3 +28,11 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 *.vssscc
 $tf*/
+=======
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+bin
+obj
+
+# mstest test results
+TestResults
+>>>>>>> c00a1cb73294f9823113aeb1c882182988f5ca9e
